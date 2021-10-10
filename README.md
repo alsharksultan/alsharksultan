@@ -1,4 +1,14 @@
-### Hi there 👋
+### Bienvenue sur mon profil 👋
+
+Je suis un simple developpeur en auto didacte. C'est à dire que j'ai tout appris sur le web UNIQUEMENT !!!
+
+### Mes compétences : 
+
+- Python
+- Html / Php
+- Administration serveur 
+
+![](https://komarev.com/ghpvc/?username=alsharksultan)
 
 <!--
 **alsharksultan/alsharksultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
